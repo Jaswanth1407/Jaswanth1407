@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jaswanth1407
 - 👀 I’m interested in "LEARNING" to "MAKE" new things ...
-- 🌱 I’m currently learning C programming , python , PowerBi and SQL
-- 💞️ I’m looking to collaborate on projects which are related to sensors and their communication with objects (or) things i.e IOT...
+- 🌱 I’m experienced with embedded C programming , Embedded operating systems, RealTime Operating systems and Linux device drivers.
+- 💞️ I’m looking to collaborate on projects which are based on STM32, Beaglebone black and Node MCU.
 - 📫  Reach me at kjaswanth1407@gmail.com ...
 
 <!---
